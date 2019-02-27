@@ -1,0 +1,12 @@
+/Users/avg/Projects/model_2/model_2/bin/iPhoneSimulator/Debug/model_2.exe
+/Users/avg/Projects/model_2/model_2/bin/iPhoneSimulator/Debug/model_2.pdb
+/Users/avg/Projects/model_2/model_2/obj/iPhoneSimulator/Debug/model_2.csprojAssemblyReference.cache
+/Users/avg/Projects/model_2/model_2/obj/iPhoneSimulator/Debug/model_2.csproj.CoreCompileInputs.cache
+/Users/avg/Projects/model_2/model_2/obj/iPhoneSimulator/Debug/model_2.exe
+/Users/avg/Projects/model_2/model_2/obj/iPhoneSimulator/Debug/model_2.pdb
+/Users/avg/Projects/model_2/model_2/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/avg/Projects/model_2/model_2/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.1/actool/_PartialAppManifest.items
+/Users/avg/Projects/model_2/model_2/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/avg/Projects/model_2/model_2/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.1/coremlc/_PartialAppManifest.items
+/Users/avg/Projects/model_2/model_2/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/avg/Projects/model_2/model_2/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-12.1/optimized/

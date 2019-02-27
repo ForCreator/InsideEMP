@@ -1,0 +1,12 @@
+/Users/avg/Projects/model_2/model_2/bin/iPhone/Debug/model_2.exe
+/Users/avg/Projects/model_2/model_2/bin/iPhone/Debug/model_2.pdb
+/Users/avg/Projects/model_2/model_2/obj/iPhone/Debug/device-builds/iphone8.1-12.1.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/avg/Projects/model_2/model_2/obj/iPhone/Debug/device-builds/iphone8.1-12.1.2/actool/_PartialAppManifest.items
+/Users/avg/Projects/model_2/model_2/obj/iPhone/Debug/device-builds/iphone8.1-12.1.2/actool/_BundleResourceWithLogicalName.items
+/Users/avg/Projects/model_2/model_2/obj/iPhone/Debug/device-builds/iphone8.1-12.1.2/coremlc/_PartialAppManifest.items
+/Users/avg/Projects/model_2/model_2/obj/iPhone/Debug/device-builds/iphone8.1-12.1.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/avg/Projects/model_2/model_2/obj/iPhone/Debug/device-builds/iphone8.1-12.1.2/optimized/
+/Users/avg/Projects/model_2/model_2/obj/iPhone/Debug/model_2.csproj.CoreCompileInputs.cache
+/Users/avg/Projects/model_2/model_2/obj/iPhone/Debug/model_2.exe
+/Users/avg/Projects/model_2/model_2/obj/iPhone/Debug/model_2.pdb
+/Users/avg/Projects/model_2/model_2/obj/iPhone/Debug/model_2.csprojAssemblyReference.cache

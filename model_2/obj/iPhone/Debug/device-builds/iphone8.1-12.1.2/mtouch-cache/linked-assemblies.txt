@@ -1,0 +1,4 @@
+RemoveDynamicRegistrar:true
+/Users/avg/Projects/model_2/model_2/bin/iPhone/Debug/device-builds/iphone8.1-12.1.2/model_2.app:/Users/avg/Projects/model_2/model_2/obj/iPhone/Debug/device-builds/iphone8.1-12.1.2/mtouch-cache/1-Link/model_2.exe
+/Users/avg/Projects/model_2/model_2/bin/iPhone/Debug/device-builds/iphone8.1-12.1.2/model_2.app:/Users/avg/Projects/model_2/model_2/obj/iPhone/Debug/device-builds/iphone8.1-12.1.2/mtouch-cache/1-Link/mscorlib.dll
+/Users/avg/Projects/model_2/model_2/bin/iPhone/Debug/device-builds/iphone8.1-12.1.2/model_2.app:/Users/avg/Projects/model_2/model_2/obj/iPhone/Debug/device-builds/iphone8.1-12.1.2/mtouch-cache/1-Link/Xamarin.iOS.dll
